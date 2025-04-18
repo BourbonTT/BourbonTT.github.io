@@ -31,7 +31,7 @@ Drawing on my experience with the **UN Convention on Biological Diversity**, **U
   </figure>
 
   <!-- 右图 -->
-  <figure style="width: 360px; margin: 0; transform: scale(1.3); transform-origin: bottom;">
+  <figure style="width: 360px; margin: 0; transform: scale(1.1); transform-origin: bottom;">
     <div style="text-align: right;">
       <img src="/files/2-Public-Seminar.png" alt="Public Seminar" style="width: 100%; height: auto; border-radius: 6px;">
     </div>
