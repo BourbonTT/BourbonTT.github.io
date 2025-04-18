@@ -19,16 +19,22 @@ My career spans significant contributions to global marine policy development an
 
 Drawing on my experience with the **UN Convention on Biological Diversity**, **UN Ocean Conference**, and marine governance frameworks, I analyze how equity considerations materialize in global ocean policy interventions, producing actionable insights for policymakers and practitioners.
 
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <figure style="text-align: center; width: 45%;">
-    <img src="/files/1-un-cbd.png" alt="UN CBD" width="100%">
-    <figcaption style="font-size: 0.9em; color: gray;">My fieldwork photo at UN CBD</figcaption>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <figure style="flex: 1 1 300px; max-width: 45%; text-align: center; margin: 0;">
+    <img src="/files/1-UN-CBD.png" alt="UN CBD" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 0.9em; color: gray; margin-top: 8px;">My fieldwork photo at UN CBD</figcaption>
   </figure>
-  <figure style="text-align: center; width: 45%;">
-    <img src="/files/2-public-seminar.png" alt="Public Seminar" width="100%">
-    <figcaption style="font-size: 0.9em; color: gray;">My PhD public seminar on ocean equity</figcaption>
+  <figure style="flex: 1 1 300px; max-width: 45%; text-align: center; margin: 0;">
+    <img src="/files/2-Public-Seminar.png" alt="Public Seminar" style="width: 100%; height: auto;">
+    <figcaption style="font-size: 0.9em; color: gray; margin-top: 8px;">My PhD public seminar on ocean equity</figcaption>
   </figure>
 </div>
+
+
+
+**Photo Caption:**  
+L: *My fieldwork photo at UN CBD*  
+R: *My PhD public seminar on ocean equity*
 
 
 **Photo Caption:**  
