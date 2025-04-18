@@ -20,11 +20,11 @@ My career spans significant contributions to global marine policy development an
 Drawing on my experience with the **UN Convention on Biological Diversity**, **UN Ocean Conference**, and marine governance frameworks, I analyze how equity considerations materialize in global ocean policy interventions, producing actionable insights for policymakers and practitioners.
 
 
-<div style="display: flex; gap: 30px; align-items: flex-end;">
+<div style="display: flex; justify-content: space-between; gap: 30px; align-items: flex-end;">
   <!-- 左图 -->
   <figure style="width: 300px; margin: 0;">
     <div style="text-align: left;">
-      <img src="/files/1-UN-CBD.png" alt="UN CBD" style="width: 90%; height: auto; border-radius: 6px;">
+      <img src="/files/1-UN-CBD.png" alt="UN CBD" style="width: 100%; height: auto; border-radius: 6px;">
     </div>
     <figcaption style="text-align: center; font-size: 0.9em; color: gray; margin-top: 6px;">
       My fieldwork photo at UN CBD
