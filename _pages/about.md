@@ -102,7 +102,7 @@ My work at **Duke**, **Oak Foundation**, **WWF China**, and the **China Marine F
   </figure>
 
   <!-- 右图 -->
-  <figure style="width: 350px; margin: 0; transform: scale(1.05); transform-origin: bottom;">
+  <figure style="width: 350px; margin: 0; transform: scale(1.1); transform-origin: bottom;">
     <div style="text-align: right;">
       <img src="/files/6-WWF.png" alt="Ocean Program of WWF China" style="width: 100%; height: auto; border-radius: 6px;">
     </div>
