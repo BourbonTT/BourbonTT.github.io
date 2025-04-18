@@ -26,7 +26,7 @@ Drawing on my experience with the **UN Convention on Biological Diversity**, **U
       <img src="/files/1-UN-CBD.png" alt="UN CBD" style="width: 100%; height: auto; border-radius: 6px;">
     </div>
     <figcaption style="display: block; width: 100%; text-align: center; font-size: 0.9em; color: gray; margin-top: 6px;">
-          Fieldwork photo at UN CBD
+          Fieldwork Photo at UN CBD
     </figcaption>
   </figure>
 
@@ -36,7 +36,7 @@ Drawing on my experience with the **UN Convention on Biological Diversity**, **U
       <img src="/files/2-Public-Seminar.png" alt="Public Seminar" style="width: 100%; height: auto; border-radius: 6px;">
     </div>
     <figcaption style="display: block; width: 100%; text-align: center; font-size: 0.8em; color: gray; margin-top: 6px;">
-      PhD public seminar on ocean equity
+      PhD Public Seminar on Ocean Equity
       <a href="https://duke.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=20e01a6c-e289-4d3c-9fc7-b272018246ea&query=xinyan%20lin" 
          target="_blank" style="text-decoration: underline; margin-left: 6px;">
         [Link]
