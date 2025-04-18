@@ -23,20 +23,20 @@ Drawing on my experience with the **UN Convention on Biological Diversity**, **U
 <div style="display: flex; justify-content: center; gap: 30px; align-items: flex-end;">
   <!-- 左图 -->
   <figure style="width: 300px; margin: 0;">
-    <div style="text-align: center;">
+    <div style="text-align: left;">
       <img src="/files/1-UN-CBD.png" alt="UN CBD" style="width: 100%; height: auto; border-radius: 6px;">
     </div>
-    <figcaption style="text-align: left; font-size: 0.9em; color: gray; margin-top: 6px;">
+    <figcaption style="text-align: center; font-size: 0.9em; color: gray; margin-top: 6px;">
       My fieldwork photo at UN CBD
     </figcaption>
   </figure>
 
   <!-- 右图 -->
-  <figure style="width: 300px; margin: 0; transform: scale(1.2); transform-origin: bottom;">
-    <div style="text-align: center;">
+  <figure style="width: 300px; margin: 0; transform: scale(1.1); transform-origin: bottom;">
+    <div style="text-align: right;">
       <img src="/files/2-Public-Seminar.png" alt="Public Seminar" style="width: 100%; height: auto; border-radius: 6px;">
     </div>
-    <figcaption style="text-align: right; font-size: 0.9em; color: gray; margin-top: 6px;">
+    <figcaption style="text-align: center; font-size: 0.9em; color: gray; margin-top: 6px;">
       My PhD public seminar on ocean equity
       <a href="https://duke.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=20e01a6c-e289-4d3c-9fc7-b272018246ea&query=xinyan%20lin" target="_blank" style="text-decoration: underline; margin-left: 6px;">
         [Link]
