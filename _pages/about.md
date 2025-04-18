@@ -25,7 +25,7 @@ Drawing on my experience with the **UN Convention on Biological Diversity**, **U
     <div style="text-align: left;">
       <img src="/files/1-UN-CBD.png" alt="UN CBD" style="width: 100%; height: auto; border-radius: 6px;">
     </div>
-    <figcaption style="text-align: left; font-size: 0.9em; color: gray; margin-top: 6px;">
+    <figcaption style="display: block; width: 100%; text-align: center; font-size: 0.9em; color: gray; margin-top: 6px;">
           Fieldwork photo at UN CBD
     </figcaption>
   </figure>
@@ -35,9 +35,10 @@ Drawing on my experience with the **UN Convention on Biological Diversity**, **U
     <div style="text-align: right;">
       <img src="/files/2-Public-Seminar.png" alt="Public Seminar" style="width: 100%; height: auto; border-radius: 6px;">
     </div>
-    <figcaption style="text-align: right; font-size: 0.9em; color: gray; margin-top: 6px;">
+    <figcaption style="display: block; width: 100%; text-align: center; font-size: 0.9em; color: gray; margin-top: 6px;">
       PhD public seminar on ocean equity
-      <a href="https://duke.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=20e01a6c-e289-4d3c-9fc7-b272018246ea&query=xinyan%20lin" target="_blank" style="text-decoration: underline; margin-left: 6px;">
+      <a href="https://duke.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=20e01a6c-e289-4d3c-9fc7-b272018246ea&query=xinyan%20lin" 
+         target="_blank" style="text-decoration: underline; margin-left: 6px;">
         [Link]
       </a>
     </figcaption>
@@ -57,7 +58,7 @@ As **Founding Director of the China Marine Funders Alliance**, I built a network
     <div style="text-align: left;">
       <img src="/files/3-annual-meeting.png" alt="CMFA annual meeting" style="width: 100%; height: auto; border-radius: 6px;">
     </div>
-    <figcaption style="text-align: left; font-size: 0.9em; color: gray; margin-top: 6px;">
+    <figcaption style="display: block; width: 100%; text-align: center; font-size: 0.9em; color: gray; margin-top: 6px;">
       CMFA Annual Meeting 
     </figcaption>
   </figure>
@@ -67,9 +68,10 @@ As **Founding Director of the China Marine Funders Alliance**, I built a network
     <div style="text-align: right;">
       <img src="/files/4-Funding.png" alt="CMFA Funding Report" style="width: 100%; height: auto; border-radius: 6px;">
     </div>
-    <figcaption style="text-align: right; font-size: 0.9em; color: gray; margin-top: 6px;">
+    <figcaption style="display: block; width: 100%; text-align: center; font-size: 0.9em; color: gray; margin-top: 6px;">
       CMFA Funding Report
-      <a href="http://www.aihaiyang.org/wp-content/uploads/2019/10/China Marine Grantmaking Bluebook 2019.pdf" target="_blank" style="text-decoration: underline; margin-left: 6px;">
+      <a href="http://www.aihaiyang.org/wp-content/uploads/2019/10/China Marine Grantmaking Bluebook 2019.pdf" 
+         target="_blank" style="text-decoration: underline; margin-left: 6px;">
         [Link]
       </a>
     </figcaption>
@@ -91,7 +93,7 @@ My work at **Duke**, **Oak Foundation**, **WWF China**, and the **China Marine F
     <div style="text-align: left;">
       <img src="/files/5-workshop.png" alt="Co-strategy workshop" style="width: 100%; height: auto; border-radius: 6px;">
     </div>
-    <figcaption style="text-align: left; font-size: 0.9em; color: gray; margin-top: 6px;">
+    <figcaption style="display: block; width: 100%; text-align: center; font-size: 0.9em; color: gray; margin-top: 6px;">
       Co-strategy Workshop
     </figcaption>
   </figure>
@@ -101,9 +103,10 @@ My work at **Duke**, **Oak Foundation**, **WWF China**, and the **China Marine F
     <div style="text-align: right;">
       <img src="/files/6-WWF.png" alt="Ocean Program of WWF China" style="width: 100%; height: auto; border-radius: 6px;">
     </div>
-    <figcaption style="text-align: right; font-size: 0.9em; color: gray; margin-top: 6px;">
+    <figcaption style="display: block; width: 100%; text-align: center; font-size: 0.9em; color: gray; margin-top: 6px;">
       Ocean Program of WWF China
-      <a href="https://www.wwfchina.org/work?id=6" target="_blank" style="text-decoration: underline; margin-left: 6px;">
+      <a href="https://www.wwfchina.org/work?id=6" 
+         target="_blank" style="text-decoration: underline; margin-left: 6px;">
         [Link]
       </a>
     </figcaption>
