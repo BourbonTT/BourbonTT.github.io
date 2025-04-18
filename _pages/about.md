@@ -65,7 +65,7 @@ As **Founding Director of the China Marine Funders Alliance**, I built a network
   <!-- 右图 -->
   <figure style="width: 300px; margin: 0; transform: scale(1.0); transform-origin: bottom;">
     <div style="text-align: right;">
-      <img src="/files/4-Funding.png" alt="CMFA Funding Report" style="width: 100%; height: auto; border-radius: 6px;">
+      <img src="/files/4-FundingReport.png" alt="CMFA Funding Report" style="width: 100%; height: auto; border-radius: 6px;">
     </div>
     <figcaption style="text-align: right; font-size: 0.9em; color: gray; margin-top: 6px;">
       CMFA Funding Report
