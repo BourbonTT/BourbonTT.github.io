@@ -21,14 +21,17 @@ Drawing on my experience with the **UN Convention on Biological Diversity**, **U
 
 
 
-<div style="display: flex; justify-content: center; gap: 30px; align-items: flex-start; flex-wrap: wrap;">
-  <figure style="text-align: center; margin: 0;">
-    <img src="/files/1-UN-CBD.png" alt="UN CBD" style="max-height: 250px; height: auto; width: auto; border-radius: 6px;">
-    <figcaption style="font-size: 0.9em; color: gray; margin-top: 8px;">My fieldwork photo at UN CBD</figcaption>
+<div style="display: flex; justify-content: center; gap: 30px;">
+  <figure style="width: 300px; text-align: center; margin: 0;">
+    <img src="/files/1-UN-CBD.png" alt="UN CBD" style="width: 100%; height: auto; border-radius: 6px;">
+    <figcaption style="font-size: 0.9em; color: gray;">My fieldwork photo at UN CBD</figcaption>
   </figure>
-  <figure style="text-align: center; margin: 0;">
-    <img src="/files/2-Public-Seminar.png" alt="Public Seminar" style="max-height: 250px; height: auto; width: auto; border-radius: 6px;">
-    <figcaption style="font-size: 0.9em; color: gray; margin-top: 8px;">My PhD public seminar on ocean equity</figcaption>
+  <figure style="width: 300px; text-align: center; margin: 0;">
+    <img src="/files/2-Public-Seminar.png" alt="Public Seminar" style="width: 100%; height: auto; border-radius: 6px;">
+    <figcaption style="font-size: 0.9em; color: gray;">
+      My PhD public seminar on ocean equity
+      <a href="/files/2-Public-Seminar.png" target="_blank" style="margin-left: 6px;">[Link]</a>
+    </figcaption>
   </figure>
 </div>
 
