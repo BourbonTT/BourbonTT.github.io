@@ -49,6 +49,8 @@ Drawing on my experience with the **UN Convention on Biological Diversity**, **U
 L: *My fieldwork photo at UN CBD*  
 R: *My PhD public seminar on ocean equity*
 
+---
+
 ### 🤝 Network Building & Collaborative Leadership
 
 As **Founding Director of the China Marine Funders Alliance**, I built a network of **30+ Chinese and international foundations**, tripling investments in ocean conservation from 2017–2020 and facilitating unprecedented collaboration among previously siloed funders.
@@ -82,6 +84,7 @@ As **Founding Director of the China Marine Funders Alliance**, I built a network
 L: *CMFA annual meeting I organized in 2019*  
 R: *CMFA Funding Report 2019*
 
+---
 
 ### 🌊 Conservation Field Building
 
@@ -99,7 +102,7 @@ My work at **Duke**, **Oak Foundation**, **WWF China**, and the **China Marine F
   </figure>
 
   <!-- 右图 -->
-  <figure style="width: 360px; margin: 0; transform: scale(1.05); transform-origin: bottom;">
+  <figure style="width: 350px; margin: 0; transform: scale(1.05); transform-origin: bottom;">
     <div style="text-align: right;">
       <img src="/files/6-WWF.png" alt="Ocean Program of WWF China" style="width: 100%; height: auto; border-radius: 6px;">
     </div>
@@ -117,7 +120,7 @@ My work at **Duke**, **Oak Foundation**, **WWF China**, and the **China Marine F
 L: *Co-strategy workshop I organized for WWF China in 2018*  
 R: *Ocean Program of WWF China*
 
-
+---
 
 ### 💰 Grant Portfolio Management
 
@@ -128,7 +131,7 @@ At **Oak Foundation**, I managed **$20+ million** in marine conservation grants 
 
 I developed robust monitoring systems and ensured effective implementation.
 
-
+---
 
 ### 📊 Monitoring, Evaluation & Learning (MEL) Systems
 
