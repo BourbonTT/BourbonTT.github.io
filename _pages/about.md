@@ -19,7 +19,6 @@ My career spans significant contributions to global marine policy development an
 
 Drawing on my experience with the **UN Convention on Biological Diversity**, **UN Ocean Conference**, and marine governance frameworks, I analyze how equity considerations materialize in global ocean policy interventions, producing actionable insights for policymakers and practitioners.
 
-
 <div style="display: flex; justify-content: space-between; gap: 30px; align-items: flex-end;">
   <!-- 左图 -->
   <figure style="width: 300px; margin: 0;">
@@ -32,7 +31,7 @@ Drawing on my experience with the **UN Convention on Biological Diversity**, **U
   </figure>
 
   <!-- 右图 -->
-  <figure style="width: 300px; margin: 0; transform: scale(1.1); transform-origin: bottom;">
+  <figure style="width: 350px; margin: 0; transform: scale(1.1); transform-origin: bottom;">
     <div style="text-align: right;">
       <img src="/files/2-Public-Seminar.png" alt="Public Seminar" style="width: 100%; height: auto; border-radius: 6px;">
     </div>
@@ -45,37 +44,67 @@ Drawing on my experience with the **UN Convention on Biological Diversity**, **U
   </figure>
 </div>
 
-
-
-**Photo Caption:**  
-L: *My fieldwork photo at UN CBD*  
-R: *My PhD public seminar on ocean equity*
-
-
-**Photo Caption:**  
-L: *My fieldwork photo at UN CBD*  
-R: *My PhD public seminar on ocean equity*
-
-
-**📷 Photo caption:**  
-L: *My fieldwork photo at UN CBD*  
-R: *My PhD public seminar on ocean equity*
-
-
-
 ### 🤝 Network Building & Collaborative Leadership
 
 As **Founding Director of the China Marine Funders Alliance**, I built a network of **30+ Chinese and international foundations**, tripling investments in ocean conservation from 2017–2020 and facilitating unprecedented collaboration among previously siloed funders.
+<div style="display: flex; justify-content: center; gap: 30px; align-items: flex-end;">
+  <!-- 左图 -->
+  <figure style="width: 300px; margin: 0;">
+    <div style="text-align: left;">
+      <img src="/files/3-annual-meeting.png" alt="CMFA annual meeting" style="width: 100%; height: auto; border-radius: 6px;">
+    </div>
+    <figcaption style="text-align: center; font-size: 0.9em; color: gray; margin-top: 6px;">
+      CMFA annual meeting I organized in 2019
+    </figcaption>
+  </figure>
+
+  <!-- 右图 -->
+  <figure style="width: 350px; margin: 0; transform: scale(1.1); transform-origin: bottom;">
+    <div style="text-align: right;">
+      <img src="/files/4-Funding.png" alt="CMFA Funding Report" style="width: 100%; height: auto; border-radius: 6px;">
+    </div>
+    <figcaption style="text-align: center; font-size: 0.9em; color: gray; margin-top: 6px;">
+      CMFA Funding Report 2019
+      <a href="http://www.aihaiyang.org/wp-content/uploads/2019/10/China Marine Grantmaking Bluebook 2019.pdf" target="_blank" style="text-decoration: underline; margin-left: 6px;">
+        [Link]
+      </a>
+    </figcaption>
+  </figure>
+</div>
 
 **📷 Photo caption:**  
 L: *CMFA annual meeting I organized in 2019*  
 R: *CMFA Funding Report 2019*
 
 
-
 ### 🌊 Conservation Field Building
 
 My work at **Duke**, **Oak Foundation**, **WWF China**, and the **China Marine Funders Alliance** demonstrates my ability to design comprehensive conservation strategies to build, bond and configure the field of marine conservation across scales.
+
+<div style="display: flex; justify-content: center; gap: 30px; align-items: flex-end;">
+  <!-- 左图 -->
+  <figure style="width: 300px; margin: 0;">
+    <div style="text-align: left;">
+      <img src="/files/5-workshop.png" alt="Co-strategy workshop" style="width: 100%; height: auto; border-radius: 6px;">
+    </div>
+    <figcaption style="text-align: center; font-size: 0.9em; color: gray; margin-top: 6px;">
+      Co-strategy workshop I organized for WWF China in 2018
+    </figcaption>
+  </figure>
+
+  <!-- 右图 -->
+  <figure style="width: 350px; margin: 0; transform: scale(1.1); transform-origin: bottom;">
+    <div style="text-align: right;">
+      <img src="/files/6-WWF.png" alt="Ocean Program of WWF China" style="width: 100%; height: auto; border-radius: 6px;">
+    </div>
+    <figcaption style="text-align: center; font-size: 0.9em; color: gray; margin-top: 6px;">
+      Ocean Program of WWF China
+      <a href="https://www.wwfchina.org/work?id=6" target="_blank" style="text-decoration: underline; margin-left: 6px;">
+        [Link]
+      </a>
+    </figcaption>
+  </figure>
+</div>
 
 **📷 Photo caption:**  
 L: *Co-strategy workshop I organized for WWF China in 2018*  
