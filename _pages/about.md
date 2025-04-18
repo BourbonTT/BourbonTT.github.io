@@ -31,7 +31,7 @@ Drawing on my experience with the **UN Convention on Biological Diversity**, **U
   </figure>
 
   <!-- 右图 -->
-  <figure style="width: 350px; margin: 0; transform: scale(1.1); transform-origin: bottom;">
+  <figure style="width: 360px; margin: 0; transform: scale(1.1); transform-origin: bottom;">
     <div style="text-align: right;">
       <img src="/files/2-Public-Seminar.png" alt="Public Seminar" style="width: 100%; height: auto; border-radius: 6px;">
     </div>
@@ -54,7 +54,7 @@ R: *My PhD public seminar on ocean equity*
 As **Founding Director of the China Marine Funders Alliance**, I built a network of **30+ Chinese and international foundations**, tripling investments in ocean conservation from 2017–2020 and facilitating unprecedented collaboration among previously siloed funders.
 <div style="display: flex; justify-content: center; gap: 30px; align-items: flex-end;">
   <!-- 左图 -->
-  <figure style="width: 300px; margin: 0;">
+  <figure style="width: 360px; margin: 0;">
     <div style="text-align: left;">
       <img src="/files/3-annual-meeting.png" alt="CMFA annual meeting" style="width: 100%; height: auto; border-radius: 6px;">
     </div>
@@ -99,7 +99,7 @@ My work at **Duke**, **Oak Foundation**, **WWF China**, and the **China Marine F
   </figure>
 
   <!-- 右图 -->
-  <figure style="width: 300px; margin: 0; transform: scale(1.05); transform-origin: bottom;">
+  <figure style="width: 350px; margin: 0; transform: scale(1.05); transform-origin: bottom;">
     <div style="text-align: right;">
       <img src="/files/6-WWF.png" alt="Ocean Program of WWF China" style="width: 100%; height: auto; border-radius: 6px;">
     </div>
