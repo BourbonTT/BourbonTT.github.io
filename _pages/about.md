@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-# About Me
 
 I am an environmental social scientist specializing in marine conservation governance and equity with **12+ years of experience** spanning academia, philanthropy, and international organizations. With a newly completed **PhD in Marine Science and Conservation from Duke University (2024)**, I bring a unique combination of scholarly research expertise and hands-on program management to address complex ocean conservation challenges.
 
