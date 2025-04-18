@@ -29,12 +29,14 @@ Drawing on my experience with the **UN Convention on Biological Diversity**, **U
   </figure>
 
   <!-- 右图（放大 + 链接更美观） -->
-  <figure style="width: 300px; text-align: center; margin: 0; transform: scale(1.1); transform-origin: bottom;">
+  <figure style="width: 300px; text-align: center; margin: 0; transform: scale(1.2); transform-origin: bottom;">
     <img src="/files/2-Public-Seminar.png" alt="Public Seminar" style="width: 100%; height: auto; border-radius: 6px;">
     <figcaption style="font-size: 0.9em; color: gray;">
-      My PhD public seminar on ocean equity
+      My PhD public seminar on ocean equity   <!-- 图片标题 -->
       <span style="display: inline-block; margin-left: 6px;">
-        <a href="https://duke.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=20e01a6c-e289-4d3c-9fc7-b272018246ea&query=xinyan%20lin" target="_blank" style="text-decoration: underline;">[Link]</a>
+        <a href="https://duke.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=20e01a6c-e289-4d3c-9fc7-b272018246ea&query=xinyan%20lin" target="_blank" style="text-decoration: underline;">
+          [Link]  
+        </a>
       </span>
     </figcaption>
   </figure>
