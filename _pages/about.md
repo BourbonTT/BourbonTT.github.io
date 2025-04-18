@@ -19,7 +19,7 @@ My career spans significant contributions to global marine policy development an
 
 Drawing on my experience with the **UN Convention on Biological Diversity**, **UN Ocean Conference**, and marine governance frameworks, I analyze how equity considerations materialize in global ocean policy interventions, producing actionable insights for policymakers and practitioners.
 
-<div style="display: flex; justify-content: space-between; gap: 30px; align-items: flex-end;">
+<div style="display: flex; justify-content: center; gap: 30px; align-items: flex-end;">
   <!-- 左图 -->
   <figure style="width: 300px; margin: 0;">
     <div style="text-align: left;">
@@ -63,7 +63,7 @@ As **Founding Director of the China Marine Funders Alliance**, I built a network
   </figure>
 
   <!-- 右图 -->
-  <figure style="width: 350px; margin: 0; transform: scale(1.0); transform-origin: bottom;">
+  <figure style="width: 300px; margin: 0; transform: scale(1.0); transform-origin: bottom;">
     <div style="text-align: right;">
       <img src="/files/4-Funding.png" alt="CMFA Funding Report" style="width: 100%; height: auto; border-radius: 6px;">
     </div>
@@ -97,7 +97,7 @@ My work at **Duke**, **Oak Foundation**, **WWF China**, and the **China Marine F
   </figure>
 
   <!-- 右图 -->
-  <figure style="width: 350px; margin: 0; transform: scale(1.0); transform-origin: bottom;">
+  <figure style="width: 300px; margin: 0; transform: scale(1.0); transform-origin: bottom;">
     <div style="text-align: right;">
       <img src="/files/6-WWF.png" alt="Ocean Program of WWF China" style="width: 100%; height: auto; border-radius: 6px;">
     </div>
