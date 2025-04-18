@@ -19,23 +19,24 @@ My career spans significant contributions to global marine policy development an
 
 Drawing on my experience with the **UN Convention on Biological Diversity**, **UN Ocean Conference**, and marine governance frameworks, I analyze how equity considerations materialize in global ocean policy interventions, producing actionable insights for policymakers and practitioners.
 
-<div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
-  <figure style="transform: scale(0.5); transform-origin: top; text-align: center; margin: 0;">
-    <img src="/files/1-UN-CBD.png" alt="UN CBD" style="border-radius: 6px;">
-    <figcaption style="font-size: 0.9em; color: gray; margin-top: 8px;">
+<div style="display: flex; justify-content: center; gap: 30px; align-items: flex-end;">
+  <figure style="width: 300px; text-align: center; margin: 0;">
+    <img src="/files/1-UN-CBD.png" alt="UN CBD" style="width: 100%; height: auto; border-radius: 6px;">
+    <figcaption style="font-size: 0.9em; color: gray;">
       My fieldwork photo at UN CBD
     </figcaption>
   </figure>
-
-  <figure style="transform: scale(0.7); transform-origin: top; text-align: center; margin: 0;">
-    <img src="/files/2-Public-Seminar.png" alt="Public Seminar" style="border-radius: 6px;">
-    <figcaption style="font-size: 0.9em; color: gray; margin-top: 8px;">
-      My PhD public seminar on ocean equity
+  
+  <figure style="width: 300px; text-align: center; margin: 0;">
+    <img src="/files/2-Public-Seminar.png" alt="Public Seminar" style="width: 100%; height: auto; border-radius: 6px;">
+    <figcaption style="font-size: 0.9em; color: gray;">
+      My PhD public seminar on ocean equity  
       <br>
       <a href="https://duke.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=20e01a6c-e289-4d3c-9fc7-b272018246ea&query=xinyan%20lin" target="_blank" style="text-decoration: underline;">[Link]</a>
     </figcaption>
   </figure>
 </div>
+
 
 
 
