@@ -24,7 +24,7 @@ main:
   #   url: /year-archive/
     
   - title: "Resume"
-    url: /files/Curriculum_Vitae.pdf
+    url: "https://bourbontt.github.io/files/Curriculum_Vitae.pdf"
     external: true
     
     
